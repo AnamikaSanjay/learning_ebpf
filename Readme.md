@@ -1,7 +1,7 @@
 # Roadmap to learn eBPF
 
 
-### 1. What Is eBPF, and Why Is It Important? (1)
+### 1. What Is eBPF, and Why Is It Important? 
 
 Learning eBPF by Liz Rice
 
@@ -12,7 +12,7 @@ Learning eBPF by Liz Rice
  - eBPF in Cloud Native Environments
 
 
-### 2. eBPF’s “Hello World”  (2)
+### 2. eBPF’s “Hello World”  
 
 (Refer Learning eBPF
 by  Liz Rice )
@@ -56,7 +56,7 @@ Refer
 - BPF Type Format
 - BPF Tail Calls
 
-### 3. Anatomy of an eBPF Program (3)
+### 3. Anatomy of an eBPF Program
 
 Learning eBPF by Liz Rice
 
@@ -79,7 +79,7 @@ Learning eBPF by Liz Rice
 - BPF to BPF Calls
 
 
-### 4. The bpf() System Call (4)
+### 4. The bpf() System Call 
 
 Learning eBPF by Liz Rice
 
@@ -134,6 +134,7 @@ Learning eBPF by Liz Rice
   - BPF Skeletons
   - Code Examples
 
+
 ### 6. The eBPF Verifier
 
 Learning eBPF by Liz Rice
@@ -152,6 +153,7 @@ Learning eBPF by Liz Rice
 - Checking the Return Code
 - Invalid Instructions
 - Unreachable Instructions
+
 
 ### 7.  eBPF Program and Attachment Types
 
@@ -177,6 +179,7 @@ Learning eBPF by Liz Rice
     - Cgroups
     - Infrared Controllers
 - BPF Attachment Types
+
 
 ### 8. Tracing with BPF
 
